@@ -17,8 +17,8 @@ OSX
  2. install ant 
  3. brew edit opencv Change DBuild-with-java=ON 
  4. brew install opencv --build-from-source 
- 5. unpack puzzle.osx.zip 
- 6. enjoy! ternimal command: java -jar sga-puzzle.jar
+ 5. install the LiveCam-Puzzle pkg
+ 6. enjoy! 
 
 Android
 1. install apk
