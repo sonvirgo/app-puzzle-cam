@@ -4,11 +4,11 @@ https://sourceforge.net/projects/puzzle-cam/files
 Windows
 1. install Oracle Java x64
 2. install app
-3. injoy!
+3. injoy! switch cam by ManyCam app
 
 Linux
 1. install ant
-2. install opencv 3.3.0 with java
+2. install opencv with java
 3. enzoi!
  
   
@@ -19,5 +19,12 @@ OSX
  4. brew install opencv --build-from-source 
  5. unpack puzzle.osx.zip 
  6. enjoy! ternimal command: java -jar sga-puzzle.jar
+
+Android
+1. install apk
+2. run app, tap menu/babylon
+3. accept to install OpenCV 
+4. inzoi! switch cam by taping at light sensor
+ 
  
 All running may need -Djava.library.path to your opencv/java location eg /usr/local/share/lib/opencv/java 
