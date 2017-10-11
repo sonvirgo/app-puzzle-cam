@@ -1,7 +1,7 @@
 # puzzle-cam
 https://sourceforge.net/projects/puzzle-cam/files
 
-Windows
+Windows x64
 1. install Oracle Java x64
 2. install app
 3. injoy! switch cam by ManyCam app
@@ -22,7 +22,7 @@ OSX
  5. install app
  6. enjoy! 
 
-Android
+Android Lolipop up
 1. install apk
 2. run app, tap menu/babylon
 3. accept to install OpenCV 
