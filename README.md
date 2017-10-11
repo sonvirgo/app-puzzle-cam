@@ -8,7 +8,7 @@ Windows
 
 Linux
 1. install ant
-2. install opencv with java
+2. install opencv 3.3.0 with java
 3. enzoi!
  
   
