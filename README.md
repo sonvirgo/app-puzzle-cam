@@ -16,8 +16,9 @@ Linux
 OSX
  1. install Java 
  2. install ant 
- 3. brew edit opencv Change DBuild-with-java=ON 
- 4. brew install opencv --build-from-source 
+ 3. $brew edit opencv -> 
+          Change DBuild-with-java=ON 
+ 4. $brew install opencv --build-from-source 
  5. install app
  6. enjoy! 
 
