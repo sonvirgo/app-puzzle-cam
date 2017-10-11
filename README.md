@@ -9,7 +9,8 @@ Windows
 Linux
 1. install ant
 2. install opencv with java
-3. enzoi!
+3. unpack app
+4. enzoi! ternimal command: java -jar sga-puzzle.jar
  
   
 OSX
@@ -17,7 +18,7 @@ OSX
  2. install ant 
  3. brew edit opencv Change DBuild-with-java=ON 
  4. brew install opencv --build-from-source 
- 5. install the LiveCam-Puzzle pkg
+ 5. install app
  6. enjoy! 
 
 Android
