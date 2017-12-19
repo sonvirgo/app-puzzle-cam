@@ -1,5 +1,5 @@
 # puzzle-cam
-https://sourceforge.net/projects/puzzle-cam/files
+https://sourceforge.net/projects/puzzle-cam/
 
 Windows x64
 1. install Oracle Java x64
