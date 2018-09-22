@@ -1,4 +1,7 @@
 # puzzle-cam
+[![Github All Releases](https://img.shields.io/github/downloads/sonvirgo/puzzle-cam/total.svg)]()
+
+
 https://sourceforge.net/projects/puzzle-cam/
 
 Windows x64
